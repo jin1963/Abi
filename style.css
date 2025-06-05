@@ -10,11 +10,13 @@ body {
 .container {
     max-width: 400px;
     margin: auto;
-    padding-top: 30px;
-}
-.logo {
+    padding-top: 
+        .logo {
+    display: block;
+    margin: 0 auto 20px auto;
     max-width: 150px;
-    margin-bottom: 20px;
+    height: auto;
+}
 }
 input[type="number"] {
     width: 80%;
